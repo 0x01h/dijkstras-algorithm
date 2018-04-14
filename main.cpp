@@ -1,5 +1,10 @@
 /*
 
+@Author
+Student Name: Orçun Özdemir
+Student ID: 150140121
+Date: 10/02/2018
+
 Random Graph Generator Using 4D Array
 
 length[a][b][c][d] = distance/weight
